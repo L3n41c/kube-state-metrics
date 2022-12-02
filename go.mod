@@ -16,16 +16,13 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/oklog/run v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.19.0
-	github.com/prometheus/exporter-toolkit v0.5.1
+	github.com/prometheus/common v0.29.0
+	github.com/prometheus/exporter-toolkit v0.7.3
 	github.com/prometheus/prometheus v2.5.0+incompatible
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20210119194325-5f4716e94777 // indirect
-	golang.org/x/oauth2 v0.0.0-20210210192628-66670185b0cd // indirect
-	golang.org/x/text v0.3.5 // indirect
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
 	golang.org/x/tools v0.1.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
